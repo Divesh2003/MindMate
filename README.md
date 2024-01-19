@@ -1,1 +1,1 @@
-# FInalYearProject
+# MindMate
